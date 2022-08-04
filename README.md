@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewLeeWest
 - 👀 I’m interested in machine learning and data analysis
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, but have taken classes and completed projects in C, Java, and Matlab
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at andrew.lee.west@gmail.com
 
